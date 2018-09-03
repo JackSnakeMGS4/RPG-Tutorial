@@ -12,5 +12,8 @@ MonoBehaviour:
   m_Name: Invisi's Dagger
   m_EditorClassIdentifier: Assembly-CSharp::NewBehaviourScript
   name: Invisi's Dagger
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: a9aabd7c547cc3245a9a2a5105891816, type: 3}
   isDefaultItem: 0
+  equipSlot: 4
+  armorMod: 15
+  dmgMod: 2
